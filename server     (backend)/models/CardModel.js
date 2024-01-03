@@ -1,0 +1,1 @@
+//representar a estrutura de dados de uma carta.

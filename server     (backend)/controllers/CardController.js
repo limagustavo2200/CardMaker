@@ -1,0 +1,1 @@
+//lidar com a lógica de negócios relacionada às cartas.
